@@ -1,0 +1,6 @@
+{
+  "name": "Orange Studio",
+  "description": "A sanctuary for arts, dance, yoga, movement, and creative workshops in Bandra. Book classes, explore schedules, and hire studio space.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
